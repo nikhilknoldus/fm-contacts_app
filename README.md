@@ -13,6 +13,9 @@ Contacts app, where you can easily create, edit and favorite your loved ones con
 ## Google lighthout score
 ![Audit Report](https://user-images.githubusercontent.com/10805658/71348353-664d0d00-2592-11ea-962e-487e6cd32041.png)
 
+## Husky hooks
+![husky-push](https://user-images.githubusercontent.com/10805658/71348464-9bf1f600-2592-11ea-9a45-aa12cc208c17.png)
+
 ## Test cases status
 ![husky-push](https://user-images.githubusercontent.com/10805658/71346337-b4abdd00-258d-11ea-8fc6-6aa6d897050d.png)
 ![Test-cases](https://user-images.githubusercontent.com/10805658/71346338-b4abdd00-258d-11ea-91df-02ebfdd61786.png)
