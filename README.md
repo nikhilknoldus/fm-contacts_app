@@ -2,6 +2,11 @@
 # FM: Contacts App
 Contacts app, where you can easily create, edit and favorite your loved ones contacts. Powered up with React, TypeScript, Scss. Includes storybook, Jest unit testing,  structured with store, action &amp; reducers which makes it highly scalable &amp; updatable.
 
+### Data
+
+Contacts app have some pre-stored data to play with, which is coming through store from localStorage and the store is structured in such a way so that it can be scaled up easlily and adap the api/db changes easily.
+
+## Running app
 ![fm_contacts-app](https://user-images.githubusercontent.com/10805658/71346267-79a9a980-258d-11ea-80fc-a7c0518917a4.gif)
 
 ## Mobile screenshots
@@ -15,6 +20,9 @@ Contacts app, where you can easily create, edit and favorite your loved ones con
 
 ## Husky hooks
 ![husky-push](https://user-images.githubusercontent.com/10805658/71348464-9bf1f600-2592-11ea-9a45-aa12cc208c17.png)
+
+## Storybook
+![storybook](https://user-images.githubusercontent.com/10805658/71349354-d2307500-2594-11ea-9ec7-9b9248ca1b17.png)
 
 ## Test cases status
 ![husky-push](https://user-images.githubusercontent.com/10805658/71346337-b4abdd00-258d-11ea-8fc6-6aa6d897050d.png)
