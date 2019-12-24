@@ -20,6 +20,10 @@ Contacts app have some pre-stored data to play with, which is coming through sto
 ## Google lighthout score
 ![Audit Report](https://user-images.githubusercontent.com/10805658/71348353-664d0d00-2592-11ea-962e-487e6cd32041.png)
 
+## Deployed App Audit Report
+![audit_report_contacts_app](https://user-images.githubusercontent.com/10805658/71411020-a634f280-266d-11ea-9581-4214780122e7.png)
+
+
 ## Husky hooks
 ![husky-push](https://user-images.githubusercontent.com/10805658/71348464-9bf1f600-2592-11ea-9a45-aa12cc208c17.png)
 
