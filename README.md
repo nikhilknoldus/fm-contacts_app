@@ -6,6 +6,8 @@ Contacts app, where you can easily create, edit and favorite your loved ones con
 
 Contacts app have some pre-stored data to play with, which is coming through store from localStorage and the store is structured in such a way so that it can be scaled up easlily and adap the api/db changes easily.
 
+## DEMO: https://master.d3f6uexzjay9uq.amplifyapp.com/
+
 ## Running app
 ![fm_contacts-app](https://user-images.githubusercontent.com/10805658/71346267-79a9a980-258d-11ea-80fc-a7c0518917a4.gif)
 
