@@ -1,7 +1,7 @@
 import React from "react";
 import { shallow } from "enzyme";
 import CustomButton from "./custom-button.component";
-import { findByTestAttr } from "../../../utils/testUtils";
+import { findByTestAttr } from "../../../../utils/testUtils";
 
 const setUp = (props: any = {}) => {
   const wrapper = shallow(<CustomButton {...props} />);

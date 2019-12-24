@@ -1,7 +1,7 @@
 import React from "react";
 import { shallow } from "enzyme";
 import ContactNav from "./contacts-nav.component";
-import { findByTestAttr } from "../../utils/testUtils";
+import { findByTestAttr } from "../../../utils/testUtils";
 
 const setUp = () => {
   const wrapper = shallow(<ContactNav />);
