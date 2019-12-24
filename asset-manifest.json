@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/fm-contacts_app/static/css/main.80af86dd.chunk.css",
-    "main.js": "/fm-contacts_app/static/js/main.f9dfeb06.chunk.js",
-    "main.js.map": "/fm-contacts_app/static/js/main.f9dfeb06.chunk.js.map",
-    "runtime-main.js": "/fm-contacts_app/static/js/runtime-main.6ab62910.js",
-    "runtime-main.js.map": "/fm-contacts_app/static/js/runtime-main.6ab62910.js.map",
-    "static/js/2.7883eb96.chunk.js": "/fm-contacts_app/static/js/2.7883eb96.chunk.js",
-    "static/js/2.7883eb96.chunk.js.map": "/fm-contacts_app/static/js/2.7883eb96.chunk.js.map",
-    "index.html": "/fm-contacts_app/index.html",
-    "precache-manifest.91ff8fb2c550a8bcac23590576bfe7dc.js": "/fm-contacts_app/precache-manifest.91ff8fb2c550a8bcac23590576bfe7dc.js",
-    "service-worker.js": "/fm-contacts_app/service-worker.js",
-    "static/css/main.80af86dd.chunk.css.map": "/fm-contacts_app/static/css/main.80af86dd.chunk.css.map",
-    "static/js/2.7883eb96.chunk.js.LICENSE": "/fm-contacts_app/static/js/2.7883eb96.chunk.js.LICENSE"
+    "main.css": "/fm-contacts_app/contact/static/css/main.80af86dd.chunk.css",
+    "main.js": "/fm-contacts_app/contact/static/js/main.f9dfeb06.chunk.js",
+    "main.js.map": "/fm-contacts_app/contact/static/js/main.f9dfeb06.chunk.js.map",
+    "runtime-main.js": "/fm-contacts_app/contact/static/js/runtime-main.6375fef9.js",
+    "runtime-main.js.map": "/fm-contacts_app/contact/static/js/runtime-main.6375fef9.js.map",
+    "static/js/2.7883eb96.chunk.js": "/fm-contacts_app/contact/static/js/2.7883eb96.chunk.js",
+    "static/js/2.7883eb96.chunk.js.map": "/fm-contacts_app/contact/static/js/2.7883eb96.chunk.js.map",
+    "index.html": "/fm-contacts_app/contact/index.html",
+    "precache-manifest.f881e7a1413799bed4f64a433b1df0a9.js": "/fm-contacts_app/contact/precache-manifest.f881e7a1413799bed4f64a433b1df0a9.js",
+    "service-worker.js": "/fm-contacts_app/contact/service-worker.js",
+    "static/css/main.80af86dd.chunk.css.map": "/fm-contacts_app/contact/static/css/main.80af86dd.chunk.css.map",
+    "static/js/2.7883eb96.chunk.js.LICENSE": "/fm-contacts_app/contact/static/js/2.7883eb96.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.6ab62910.js",
+    "static/js/runtime-main.6375fef9.js",
     "static/js/2.7883eb96.chunk.js",
     "static/css/main.80af86dd.chunk.css",
     "static/js/main.f9dfeb06.chunk.js"
