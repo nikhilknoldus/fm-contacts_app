@@ -8,6 +8,24 @@ Contacts app have some pre-stored data to play with, which is coming through sto
 
 ## DEMO: <a href="https://master.d3f6uexzjay9uq.amplifyapp.com/"> Contacts App </a>
 
+## Steps to run the project, test-suites & storybook
+<ul>
+  <li> Clone the repo : <code> git clone https://github.com/nikhilknoldus/fm-contacts_app.git </code> </li>
+  <li> cd into <code>fm-contacts_app/contacts</code> and run: <code> npm install </code> </li>
+  <li> After successfull installation of all packages run: <code> npm start </code> </li> 
+  <li> In your browser use this url to see the project: <code> http://localhost:3000/ </code> </li>
+</ul>
+<h4> Steps to run all the test cases </h4>
+<ul>
+  <li> From inside <code>contact</code> directory itself, run: <code>npm run test</code> </li>
+  <li> Test cases will execute & show results in the commandline/terminal itself </li>
+</ul>
+<h4>Steps to run storybook </h4>
+<ul>
+  <li> From inside <code>contact</code> directly itself, run: <code> npm run storybook </code> </li>
+  <li> Open your browser and use this url to see the storybook results: <code> http://localhost:6006/ </code>
+</ul>
+
 ## Running app
 ![fm_contacts-app](https://user-images.githubusercontent.com/10805658/71346267-79a9a980-258d-11ea-80fc-a7c0518917a4.gif)
 
