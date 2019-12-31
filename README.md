@@ -8,6 +8,20 @@ Contacts app have some pre-stored data to play with, which is coming through sto
 
 ## DEMO: <a href="https://master.d3hfwto89yms8m.amplifyapp.com/"> Contacts App </a>
 
+## Followed Points Guidelines as per:
+
+<ul>
+  <li>You can use the language of your choice but we would prefer the TypeScript: <b> TypesScript is used</b></li>
+  <li>You can use any framework of your choice.: <b> React with TS is used</b></li>
+  <li>Feel free to use any UI libraries of your choice, but would be great if you could showcase us your CSS knowledge​. You can use any preprocessors like SCSS, LESS or others.: <b> Used SCSS with HTML only, no framework</b></li>
+  <li> The source code quality. It should be well formatted and easy to review: <b> Code is easy to review, separated in different files </b></li>
+<li>he UI. The application should look nice (subjectively) and easy to use. Ideally mobile friendly.: <b> The UI is fully responsive on appox all screens including mobile, built with only CSS flexbox & @media queries</b></li>
+  <li>The form fields validation.: <b> Field validations are working</b></li>
+<li>Configured linter would be welcome but not required.:<b> Linter, husky is configured with pre-push & pre-commit </b> </li>
+  <li>Some unit and/or e2e tests are welcome but not required. <b> Jest Unit test cases are added </b></li>
+  <li><b> Storybook is added for UI components</b></li>
+</ul>
+
 ## Steps to run the project, test-suites & storybook
 <ul>
   <li> Clone the repo : <code> git clone https://github.com/nikhilknoldus/fm-contacts_app.git </code> </li>
