@@ -8,7 +8,7 @@ Contacts app have some pre-stored data to play with, which is coming through sto
 
 ## DEMO: <a href="https://master.d3hfwto89yms8m.amplifyapp.com/"> Contacts App </a>
 
-## Followed Points Guidelines as per:
+## Followed Points as per Guidelines:
 
 <ul>
   <li>You can use the language of your choice but we would prefer the TypeScript: <b> TypesScript is used</b></li>
